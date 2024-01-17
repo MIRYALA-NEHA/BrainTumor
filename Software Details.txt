@@ -1,0 +1,7 @@
+Softwares Used:
+ Windows 10
+ Python (version 3.7.3) 
+ Anaconda
+ Jupyter Notebook
+Application Development:Tkinter 
+LIbraries: Keras, Pandas, Numpy, Sklearn, TensorFlow, Seaborn

@@ -1,0 +1,7 @@
+Execution Steps:
+
+	1. Run the cells in the jupyterNotebook file.
+	2. Get the Graphical User Interface(GUI).
+	3. Click on select image.
+	4. Select the required image for prediction of the tumor.
+	5. Get the time taken to predict the label of the image.
